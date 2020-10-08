@@ -6,7 +6,7 @@ for fruit in h:
   print(f'fruit is {fruit}')
 
 
-print("hello peter2")
+print("hello peter3")
 
 
 for a in range(5):
