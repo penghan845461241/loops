@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-h = ['banana','orange','apple']
+h = ['huawei','xiaomi','apple']
 
 for fruit in h:
   print(f'fruit is {fruit}')
