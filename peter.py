@@ -15,7 +15,7 @@ for a in range(6):
     print("hello Peter")
 
 for peter in range(10):
-  print("lazy")
+  print("love")
   if peter==28:
     print("old")
 
