@@ -14,7 +14,8 @@ for a in range(6):
   if a ==53:
     print("hello Peter")
 
-for beer in range(10):
-  print("buy")
-  if beer ==3:
-    print("no more beer")
+for peter in range(10):
+  print("520")
+  if peter ==27:
+    print("old")
+
