@@ -6,7 +6,7 @@ for fruit in h:
   print(f'fruit is {fruit}')
 
 
-print("hello peter is 27 years old")
+print("hello peter is 10/10/2020")
 
 
 for a in range(6):
